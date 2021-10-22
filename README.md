@@ -26,4 +26,4 @@ step-4:Your system should have below given python libraries:
  link- https://medium.com/analytics-vidhya/how-to-install-dlib-library-for-python-in-windows-10-57348ba1117f
  and also you can study about how to calculate Eye Aspect Ratio(EAR) through given link:
  link- https://medium.com/analytics-vidhya/eye-aspect-ratio-ear-and-drowsiness-detector-using-dlib-a0b2c292d706
- Thank You !
+ Thank You 
